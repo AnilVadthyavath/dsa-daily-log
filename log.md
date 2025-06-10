@@ -1,6 +1,8 @@
 # 📅 DSA Daily Problem Solving Log
 
-| Date       | Problem Title            | Platform | Topic        | Link                               |
-|------------|--------------------------|----------|--------------|------------------------------------|
-| 2025-06-10 | Two Sum                  | LeetCode | Arrays       | https://leetcode.com/problems/two-sum/ |
-| 2025-06-11 | Reverse Linked List      | LeetCode | Linked List  | https://leetcode.com/problems/reverse-linked-list/ |
+Day| Date       | Problem Title            | Platform | Topic        | Link                               |
+|-------|------------|--------------------------|----------|--------------|------------------------------------|
+|1| 2025-06-10 | Count Digits             | GFG      | Mathematics  | https://www.geeksforgeeks.org/program-count-digits-integer-3-different-methods/ |
+|| 2025-06-10 | Palindrome               | GFG      | Mathematics  | https://www.geeksforgeeks.org/c-program-check-given-string-palindrome/ |
+|| 2025-06-10 | Factorial of Number      | GFG      | Mathematics  | https://www.geeksforgeeks.org/factorial-large-number/ |
+
