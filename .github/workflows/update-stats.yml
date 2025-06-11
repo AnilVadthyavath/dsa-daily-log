@@ -32,4 +32,4 @@ jobs:
         run: |
           git add README.md
           git commit -m "📊 Auto-update DSA stats"
-          git push
+          git push --force
