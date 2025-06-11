@@ -20,12 +20,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.name "AnilVadhthyavath"
+          git config --global user.name "AnilVadthyavath"
           git config --global user.email "vadthyavathanil.ai@gmail.com"
-
-      - name: Pull latest changes
-        run: |
-          git pull origin main --rebase || true
 
       - name: Run update_stats.py
         run: python update_stats.py
@@ -34,5 +30,5 @@ jobs:
         run: |
           git add .
           git commit -m "📊 Auto-update DSA stats" || echo "No changes to commit"
-          git pull --rebase origin main    # ✅ This line fixes the error
+          git pull --rebase origin main     # ✅ THIS FIXES YOUR ERROR
           git push
