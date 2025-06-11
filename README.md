@@ -1,5 +1,9 @@
 # 🧠 DSA Daily Practice Log
 
+## 📊 DSA Daily Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnilVadthyavath&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
 📅 Practicing DSA daily with LeetCode & GeeksforGeeks  
 🎯 Goal: 300+ problems before placement season  
 🧑‍💻 Language: C++ (with STL)
