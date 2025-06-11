@@ -1,18 +1,22 @@
 # 🧠 DSA Daily Practice Log
 
-## 📊 DSA Practice Stats
-
-<!--STATS-START-->
-<!--STATS-END-->
-
 📅 Practicing DSA daily with LeetCode & GeeksforGeeks  
 🎯 Goal: 300+ problems before placement season  
 🧑‍💻 Language: C++ (with STL)
 
 ---
 
+## 📊 DSA Practice Stats
+
+<!--STATS-START-->
+... stats will be inserted here ...
+<!--STATS-END-->
+
+---
+
 ## 📂 Folder Structure
 
+(Add your folder layout here if needed — optional)
 
 ---
 
@@ -41,3 +45,4 @@
 > This repo is part of my mission to become a product-grade AI Engineer.  
 > Proof-of-work > promises.  
 > DSA builds the brain. Let’s go 💪
+> 
