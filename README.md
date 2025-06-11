@@ -1,5 +1,10 @@
 # 🧠 DSA Daily Practice Log
 
+## 📊 DSA Practice Stats
+
+<!--STATS-START-->
+<!--STATS-END-->
+
 📅 Practicing DSA daily with LeetCode & GeeksforGeeks  
 🎯 Goal: 300+ problems before placement season  
 🧑‍💻 Language: C++ (with STL)
