@@ -9,7 +9,7 @@
 ## 📊 DSA Practice Stats
 
 <!--STATS-START-->
-... stats will be inserted here ...
+
 <!--STATS-END-->
 
 ---
