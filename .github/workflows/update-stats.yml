@@ -32,6 +32,7 @@ jobs:
 
       - name: Commit and Push changes
         run: |
-          git add README.md
-          git diff --cached --quiet || git commit -m "📊 Auto-update DSA stats"
-          git push origin main || true
+          git add .
+          git commit -m "📊 Auto-update DSA stats" || echo "No changes to commit"
+          git pull --rebase origin main    # ✅ This line fixes the error
+          git push
