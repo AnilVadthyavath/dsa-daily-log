@@ -23,8 +23,9 @@ jobs:
           git config --global user.name "AnilVadhthyavath"
           git config --global user.email "vadthyavathanil.ai@gmail.com"
 
-      - name: Pull latest changes (to avoid push conflict)
-        run: git pull origin main --rebase
+      - name: Pull latest changes
+        run: |
+          git pull origin main --rebase || true
 
       - name: Run update_stats.py
         run: python update_stats.py
@@ -32,5 +33,5 @@ jobs:
       - name: Commit and Push changes
         run: |
           git add README.md
-          git commit -m "📊 Auto-update DSA stats" || echo "No changes to commit"
-          git push origin main
+          git diff --cached --quiet || git commit -m "📊 Auto-update DSA stats"
+          git push origin main || true
