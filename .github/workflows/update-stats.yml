@@ -1,7 +1,9 @@
-name: Update DSA Stats
+name: 📊 Auto Update DSA Stats
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # Manual trigger from GitHub UI
+  schedule:
+    - cron: '30 20 * * *'  # Runs every day at 2:00 AM IST (20:30 UTC)
 
 jobs:
   update-readme:
@@ -28,7 +30,6 @@ jobs:
 
       - name: Commit & Push
         run: |
-          git add .
-          git commit -m "📊 Auto-update DSA stats" || echo "No changes to commit"
-          git pull --rebase origin main    # ✅ This is the missing step
+          git add README.md
+          git commit -m "📊 Auto-update DSA stats"
           git push
