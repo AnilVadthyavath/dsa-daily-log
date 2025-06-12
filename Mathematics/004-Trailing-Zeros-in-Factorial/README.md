@@ -39,6 +39,43 @@ Output: 24
 
 ### 2️⃣ Efficient Approach (Best)
 
+### 🧠 Trailing Zeros in `n!` — Why We Count 5s
+
+* A trailing zero comes from multiplying `10 = 2 × 5`.
+* In `n!`, 2s are always more frequent than 5s.
+* So, number of trailing zeros = **number of times 5 is a factor** in `n!`.
+
+---
+
+### ✅ Example: `n = 10`
+
+```
+10! = 1×2×3×4×5×6×7×8×9×10 = 3628800
+```
+
+Let’s count how many 5s:
+
+* 5 → gives one 5
+* 10 → gives another 5
+  → **2 total 5s**
+  → **2 pairs of (2 × 5)** → ✅ 2 trailing zeroes
+
+No need to count 2s — they're always more than enough.
+
+---
+
+### 🔁 Efficient Code (No Overflow):
+
+```cpp
+int count = 0;
+for (int i = 5; i <= n; i *= 5)
+    count += n / i;
+```
+
+✔ Handles large `n`
+✔ Avoids factorial calculation
+✔ Counts 5s from `5, 25, 125, ...`
+
 A trailing zero is produced by multiplying `2 × 5`.
 Since the number of 2s is always greater than 5s in factorials, we only need to **count the number of 5s** in the prime factorization of numbers from `1 to n`.
 
