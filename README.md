@@ -35,6 +35,7 @@
 
 ## 📈 Topics Covered
 
+- [Mathematics](https://github.com/AnilVadthyavath/dsa-daily-log/tree/main/Mathematics)
 - Arrays
 - Strings
 - Linked Lists
