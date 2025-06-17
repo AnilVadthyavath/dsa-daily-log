@@ -1,4 +1,4 @@
-#naive solution
+// naive solution
 class Solution {
 public:
     vector<int> printPrimes(int n) {
@@ -22,7 +22,7 @@ private:
     }
 };
 
-#Sieve of Eratosthenes code
+// Sieve of Eratosthenes code
 class Solution {
 public:
     vector<int> sieve(int n) {
@@ -47,7 +47,7 @@ public:
     }
 };
 
-#optimized Sieve of Eratosthenes
+// optimized Sieve of Eratosthenes
 class Solution {
 public:
     vector<int> sieve(int n) {
