@@ -1,4 +1,4 @@
-#naive
+// naive
 
 class Solution {
 public:
@@ -13,7 +13,7 @@ public:
     }
 };
 
-#Efficient Prime Check Code:
+//Efficient Prime Check Code:
 
 class Solution {
 public:
@@ -29,7 +29,7 @@ public:
     }
 };
 
-#Highly Efficient Prime Check Code:
+// Highly Efficient Prime Check Code:
 
 class Solution {
 public:
