@@ -1,4 +1,4 @@
-#Brute-Force 
+// Brute-Force 
 
 class Solution {
 public:
@@ -13,7 +13,7 @@ public:
 };
 
 
-# optimzed
+// optimzed
 
 class Solution {
 public:
