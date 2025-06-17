@@ -12,10 +12,10 @@
 
 **DSA Practice Stats**
 
-- 🔥 Total Problems Solved: 11  
-- 📅 Days Logged: 6  
-- 🔁 Current Streak: 6 days  
-- 🥇 Longest Streak: 6 days
+- 🔥 Total Problems Solved: 12  
+- 📅 Days Logged: 7  
+- 🔁 Current Streak: 7 days  
+- 🥇 Longest Streak: 7 days
 
 <!--STATS-END-->
 
