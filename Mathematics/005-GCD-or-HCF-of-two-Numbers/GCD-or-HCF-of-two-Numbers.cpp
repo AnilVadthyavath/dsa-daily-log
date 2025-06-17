@@ -1,4 +1,4 @@
-# Brute force:
+// Brute force:
 
 class Solution {
 public:
@@ -14,7 +14,7 @@ public:
     }
 };
 
-# Euclidean Algorithm (More Efficient):
+//Euclidean Algorithm (More Efficient):
 
 class Solution {
 public:
@@ -29,7 +29,7 @@ public:
     }
 };
 
-# optimized
+//optimized
 class Solution {
 public:
     int gcd(int a, int b) {
