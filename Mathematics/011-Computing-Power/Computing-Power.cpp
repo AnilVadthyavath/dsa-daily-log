@@ -1,4 +1,4 @@
-#Naive Power Function 
+//Naive Power Function 
 class Solution {
 public:
     int power(int x, int n) {
@@ -10,7 +10,7 @@ public:
     }
 };
 
-#Efficient Solution
+//Efficient Solution
 class Solution {
 public:
     int power(int x, int n) {
