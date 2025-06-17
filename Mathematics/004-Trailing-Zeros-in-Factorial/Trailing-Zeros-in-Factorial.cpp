@@ -1,4 +1,4 @@
-# Naive Implementation (Limited by int overflow):
+//  Naive Implementation (Limited by int overflow):
 
 class Solution {
 public:
@@ -17,7 +17,7 @@ public:
     }
 };
 
-# optimized solution:
+// optimized solution:
 
 class Solution {
 public:
