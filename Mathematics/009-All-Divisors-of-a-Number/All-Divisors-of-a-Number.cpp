@@ -1,4 +1,4 @@
-# Naive Divisor Function 
+// Naive Divisor Function 
 class Solution {
 public:
     vector<int> printDivisors(int n) {
@@ -14,7 +14,7 @@ public:
     }
 };
 
-#Efficient Divisor Function
+// Efficient Divisor Function
 class Solution {
 public:
     vector<int> printDivisors(int n) {
@@ -35,7 +35,7 @@ public:
 };
 
 
-# Optimized & Sorted Divisors
+// Optimized & Sorted Divisors
 class Solution {
 public:
     vector<int> printDivisors(int n) {
