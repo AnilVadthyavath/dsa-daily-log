@@ -1,4 +1,4 @@
-# native solution
+// native solution
 
 class Solution {
 public:
@@ -10,7 +10,7 @@ public:
     }
 };
 
-# optimized solution
+// optimized solution
 
 class Solution {
 public:
