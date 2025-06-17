@@ -1,4 +1,4 @@
-# Naive Prime Factorization Code:
+// Naive Prime Factorization Code:
 void primeFactors(int n) {
     for (int i = 2; i < n; i++) {
         if (isPrime(i)) {
@@ -11,7 +11,7 @@ void primeFactors(int n) {
     }
 }
 
-#Efficient Prime Factorization (C++):
+// Efficient Prime Factorization (C++):
 class Solution {
 public:
     vector<int> primeFactors(int n) {
@@ -35,7 +35,7 @@ public:
 };
 
 
-# More Efficient Code
+// More Efficient Code
 class Solution {
 public:
     vector<int> primeFactors(int n) {
