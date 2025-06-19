@@ -36,6 +36,7 @@
 ## 📈 Topics Covered
 
 - [Mathematics](https://github.com/AnilVadthyavath/dsa-daily-log/tree/main/Mathematics)
+- [Bit Magic](https://github.com/AnilVadthyavath/dsa-daily-log/tree/main/Bit-Magic)
 - Arrays
 - Strings
 - Linked Lists
