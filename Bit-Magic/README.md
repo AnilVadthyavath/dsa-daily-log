@@ -60,15 +60,6 @@ Bitwise operations are constant-time and do not require additional space, making
 
 ---
 
-Feel free to expand this document as you explore more advanced bitwise techniques like:
-
-* Counting set bits
-* Swapping numbers without a temporary variable
-* Bitmasking for subsets and permissions
-* Bit tricks in competitive programming
-
----
-
 ## ⚙️ Bit Algorithms | Important Tactics
 
 Below are some powerful and commonly used **bit manipulation tactics** that make solving certain problems faster and more elegant.
