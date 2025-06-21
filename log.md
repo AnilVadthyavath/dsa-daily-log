@@ -14,4 +14,7 @@
 | 12  | 7   | 2025-06-17 | Modular Arithmetic          | GFG      | Mathematics | [Code](https://github.com/AnilVadthyavath/dsa-daily-log/tree/main/Mathematics/012-Modular-Arithmetic) | [GFG](https://www.geeksforgeeks.org/modulo-operator-in-c-cpp-with-examples/) | ✅     |
 | 13  | 8   | 2025-06-18 | Iterative Power (xⁿ)        | GFG      | Mathematics | [Code](https://github.com/AnilVadthyavath/dsa-daily-log/tree/main/Mathematics/013-Iterative-Power) | [GFG](https://www.geeksforgeeks.org/write-a-c-program-to-calculate-powxn/) | ✅     |
 | 14  | 9   | 2025-06-19 | Check if Kth Bit is Set     | GFG      | Bit Magic   | [Code](https://github.com/AnilVadthyavath/dsa-daily-log/tree/main/Bit-Magic/014-Check-if-Kth-bit-is-set-or-not) | [GFG](https://www.geeksforgeeks.org/check-whether-k-th-bit-set-not/) | ✅     |
+| 15  | 10  | 2025-06-20 | —                          | —        | —           | —                                                                                  | —                                                           | ❌     |
+| 16  | 11  | 2025-06-21 | Count Set Bits             | GFG      | Bit Magic   | [Code](https://github.com/AnilVadthyavath/dsa-daily-log/tree/main/Bit-Magic/015-Count-Set-Bits) | [GFG](https://www.geeksforgeeks.org/count-set-bits-in-an-integer/) | ✅     |
+
 
