@@ -16,5 +16,7 @@
 | 14  | 9   | 2025-06-19 | Check if Kth Bit is Set     | GFG      | Bit Magic   | [Code](https://github.com/AnilVadthyavath/dsa-daily-log/tree/main/Bit-Magic/014-Check-if-Kth-bit-is-set-or-not) | [GFG](https://www.geeksforgeeks.org/check-whether-k-th-bit-set-not/) | ✅     |
 | 15  | 10  | 2025-06-20 | —                          | —        | —           | —                                                                                  | —                                                           | ❌     |
 | 16  | 11  | 2025-06-21 | Count Set Bits             | GFG      | Bit Magic   | [Code](https://github.com/AnilVadthyavath/dsa-daily-log/tree/main/Bit-Magic/015-Count-Set-Bits) | [GFG](https://www.geeksforgeeks.org/count-set-bits-in-an-integer/) | ✅     |
+| 17  | 12  | 2025-06-22 | Power of Two                | GFG      | Bit Magic   | [Code](https://github.com/AnilVadthyavath/dsa-daily-log/tree/main/Bit-Magic/016-Power-of-Two) | [GFG](https://www.geeksforgeeks.org/program-to-find-whether-a-no-is-power-of-two/) | ✅     |
+
 
 
