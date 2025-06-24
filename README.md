@@ -14,7 +14,7 @@
 
 - 🔥 Total Problems Solved: 16  
 - 📅 Days Logged: 11  
-- 🔁 Current Streak: 2 days  
+- 🔁 Current Streak: 0 days  
 - 🥇 Longest Streak: 9 days
 
 <!--STATS-END-->
